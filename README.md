@@ -12,8 +12,7 @@ And here's a list of what I've been using:
 
 Java | Spring | Maven | Hibernate | PostgreSQL |
  Python | Flask | Angular | JavaScript |  HTML
-
-[Java,  Spring,  Maven,  Servlets, Hibernate, PostgreSQL,  Python,  Flask,  Angular,  JavaScript,  AJAX,  HTML,  Clean coding]
+ 
 
 <code> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" /> </code>
 <code> <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" /> </code>
